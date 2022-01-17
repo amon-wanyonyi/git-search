@@ -25,6 +25,7 @@
 * CSS
 * Bootstrap 
 * AngularCli
+* Typescript
 
 # Known Bugs
 
