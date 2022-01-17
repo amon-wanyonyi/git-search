@@ -12,7 +12,7 @@
  # Screenshot
  <img src='src/assets/screenshot.png'>
 
- # installation/setup installation
+ # Installation.
 
  * open terminal
  * git clone repository https://github.com/amon-wanyonyi/git-search.git
