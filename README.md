@@ -37,5 +37,5 @@
  # Lisence
 
  * MIT Linsence
- * Copyright (c) 2021.
+ * Copyright (c) 2022.
  **Amon Wanyonyi**
